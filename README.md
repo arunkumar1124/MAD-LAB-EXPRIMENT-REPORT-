@@ -40,7 +40,7 @@ Implementation Considerations Technical Setup To implement TTS and STT in the ap
 
 Installation Clone this repository:
 
-bash Copy code git clone ([https://github.com/ArunaSekar1/Aruna_221501011_MAD](https://github.com/arunkumar1124/MAD-LAB-EXPRIMENT-REPORT-.git
+bash Copy code git clone ((https://github.com/arunkumar1124/MAD-LAB-EXPRIMENT-REPORT-.git
 
 )) Navigate to the project directory:
 
